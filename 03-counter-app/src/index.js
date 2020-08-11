@@ -6,6 +6,6 @@ import CounterApp from './CounterApp';
 
 const root = document.querySelector('#root');
 
-ReactDOM.render( <CounterApp value={ 5 }/>, root)
+ReactDOM.render( <CounterApp/>, root)
 
 //ReactDOM.render( <SegundaApp />, root)

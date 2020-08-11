@@ -30,6 +30,7 @@ const CounterApp = ({ value = 10}) => {
     )
 }
 
+
 CounterApp.propTypes = {
     value: PropTypes.number
 }
